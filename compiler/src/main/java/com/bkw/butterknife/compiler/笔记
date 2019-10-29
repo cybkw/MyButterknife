@@ -1,0 +1,9 @@
+本demo APT生成代码以下未使用JavaPote方式：
+
+ButterKniffeProcess.java
+
+
+//////////////////////////////
+JavaPote优雅的方式如下:
+utils包下的工具；
+ButterKniffeProcessJavaPote.java
